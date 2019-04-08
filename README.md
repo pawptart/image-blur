@@ -17,10 +17,13 @@ image-blur uses `rspec` tests to make sure the algorithm functions correctly. Yo
 ## Examples
 
 One Pixel Transform
+
 ![One Pixel Transform](/assets/blur1.png)
 
 Multiple Pixel Transform
+
 ![Multiple Pixel Transform](/assets/blur2.png)
 
 Edge Tranformation
+
 ![Edge Tranformation](/assets/bluredge.png)
