@@ -17,10 +17,10 @@ image-blur uses `rspec` tests to make sure the algorithm functions correctly. Yo
 ## Examples
 
 One Pixel Transform
-![One Pixel Transform](https://online.bootcampspot.com/assets/blur1-00ade141e2f646117b7e28c463e7193762776939302e75969e6b42a7fad9080a.png)
+![One Pixel Transform](/assets/blur1.png)
 
 Multiple Pixel Transform
-![Multiple Pixel Transform](https://online.bootcampspot.com/assets/blur2-57bef685d325ebb2e1c27b57c7fb8892b1f2b35219fe8bf0b0469e7593c35bbe.png)
+![Multiple Pixel Transform](/assets/blur2.png)
 
 Edge Tranformation
-![Edge Tranformation](https://online.bootcampspot.com/assets/blur3-0306137172a851241d7f7bd0cac02d1f31b1613863d6970535f3f629aef861c5.png)
+![Edge Tranformation](/assets/bluredge.png)
